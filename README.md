@@ -44,12 +44,4 @@ index.html       大屏页面、预设咨询与动画逻辑
 vendor/three/    Three.js 与 Bloom 后处理依赖
 vendor/fonts/    本地字体与许可证
 docs/preview.jpg 页面实拍预览
-LICENSE         PolyForm Noncommercial 1.0.0
-NOTICE          来源及版权说明
 ```
-
-## 来源与许可
-
-基于 [cyberdaddyleo/agent-display](https://github.com/cyberdaddyleo/agent-display/tree/ff44824a741d9b2a767b82f39d3dd34c75c87e3f) 的可视化版本进行 LHH 场景改编，保留上游版权声明与依赖许可。
-
-项目按 [PolyForm Noncommercial License 1.0.0](LICENSE) 分发。非商业用途可按许可使用；商业使用需另行获得授权。详情见 [NOTICE](NOTICE) 及上游项目。
