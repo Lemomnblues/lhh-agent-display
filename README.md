@@ -1,4 +1,4 @@
-# LHH 用工合规助手 · 星核蜘蛛大屏
+# LHH用工合规助手大屏
 
 把用工咨询的梳理过程，展示为一只星云蜘蛛在 12 类用工主题之间跳跃、读词、连线、澄清并汇总回复的 3D 大屏。
 
@@ -50,6 +50,6 @@ NOTICE          来源及版权说明
 
 ## 来源与许可
 
-基于 [cyberdaddyleo/agent-display](https://github.com/cyberdaddyleo/agent-display/tree/ff44824a741d9b2a767b82f39d3dd34c75c87e3f) 的星核蜘蛛版本进行 LHH 场景改编，保留上游版权声明与依赖许可。
+基于 [cyberdaddyleo/agent-display](https://github.com/cyberdaddyleo/agent-display/tree/ff44824a741d9b2a767b82f39d3dd34c75c87e3f) 的可视化版本进行 LHH 场景改编，保留上游版权声明与依赖许可。
 
 项目按 [PolyForm Noncommercial License 1.0.0](LICENSE) 分发。非商业用途可按许可使用；商业使用需另行获得授权。详情见 [NOTICE](NOTICE) 及上游项目。
